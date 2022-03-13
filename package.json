@@ -1,0 +1,23 @@
+{
+  "name": "ide",
+  "version": "1.0.0",
+  "description": "IDE",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:x-research-team/ide.git"
+  },
+  "scripts": {},
+  "author": "Adel Urazov",
+  "license": "MIT",
+  "dependencies": {
+    "@monaco-editor/loader": "^1.2.0",
+    "@monaco-editor/react": "^4.3.1",
+    "monaco-editor": "^0.33.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
